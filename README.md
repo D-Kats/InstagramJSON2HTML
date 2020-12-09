@@ -18,3 +18,6 @@ The InstagramJson2Html.exe is a small python tool that converts the "messages.js
 - Account under investigation messages are being highlightened with a light blue colour (the messages that the user sent to others).
 
 - If you don't want to add an image of your Agency/Department/Enterprise then just delete line 9 of the created report.html file or modify the 'alt' attribute of the img tag accordingly.   
+
+## License
+[MIT](https://github.com/D-Kats/InstagramJSON2HTML/blob/main/LICENSE)
